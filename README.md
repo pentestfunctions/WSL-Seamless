@@ -57,7 +57,7 @@ wsl --install --distribution kali-linux
 - Then it will stop any current `vcxsrv` processes and any WSL kex processes
 - Finally it will relaunch them fresh.
 
-## If you have errors
+## 🐛 If you have errors
 - A common error you might encounter is adjusting the height of the kali taskbar. If you increase the size and it crashes/wont open again, you will need to edit the file inside your WSL
   ```bash
   nano ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
