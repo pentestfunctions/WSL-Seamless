@@ -2,7 +2,7 @@
 Seamless mode integration for WSL 🚀
 
 <p align="center">
-  <img src="[https://profile-counter.glitch.me/pentestfunctions/count.svg](https://www.kali.org/docs/wsl/win-kex/win-kex-sl.png)">
+  <img src="https://www.kali.org/docs/wsl/win-kex/win-kex-sl.png">
 </p>
 
 ## Steps to Use 📝
