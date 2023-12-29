@@ -42,6 +42,12 @@ wsl --install --distribution kali-linux
 - Remove unwanted icons via the 'Items' tab.
 - Move the taskbar by dragging the dotted area on its sides.
 
+## How I size mine:
+📸 Example sizing
+<p align="center">
+  <img src="./images/size_example.png" alt="Size-example.png">
+</p>
+
 ## 🖥️ Code (seamless.bat)
 - Essentially the code will create a config file used in xlaunch (vcxsrv)
 - Then it will stop any current `vcxsrv` processes and any WSL kex processes
