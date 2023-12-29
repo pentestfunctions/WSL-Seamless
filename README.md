@@ -1,5 +1,5 @@
 # 🖥️ WSL-Seamless
-Seamless mode integration for WSL 🚀
+Seamless mode integration for WSL - Access Kali & Windows Simultaneously 🚀
 
 <p align="center">
   <img src="https://www.kali.org/docs/wsl/win-kex/win-kex-sl.png">
