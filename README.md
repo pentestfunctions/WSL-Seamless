@@ -44,6 +44,9 @@ wsl --install --distribution kali-linux
 
 ## How I size mine:
 📸 Example sizing
+
+- I have provided my xfce4-panel.config file in this repo so you can copy/paste it if required.
+
 <p align="center">
   <img src="./images/size_example.png" alt="Size-example.png">
 </p>
