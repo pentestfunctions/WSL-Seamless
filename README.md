@@ -67,3 +67,7 @@ wsl --install --distribution kali-linux
          <property name="size" type="uint" value="28"/>
    ```
 2. You will need to change that `value=` preferably to something under 34 to ensure it works again correctly.
+
+## Credits ⏬
+- https://github.com/Dark2M00n
+Came up with it together.
