@@ -16,6 +16,11 @@ wsl --install --distribution kali-linux
   ```
   wsl --set-default kali-linux
   ```
+- Install kex
+  ```bash
+  sudo apt update
+  sudo apt install -y kali-win-kex
+  ```
 
 2. **Download the `.bat` file**:
 - Grab it from [here](https://github.com/pentestfunctions/WSL-Seamless/blob/main/seamless.bat) and save it to your desired location.
